@@ -11,6 +11,7 @@
             "scripts/virtualbox.sh",
             "scripts/zfs.sh",
             "scripts/libvirt.sh",
+             "scripts/go.sh",
             "scripts/cleanup.sh",
             "scripts/zerodisk.sh"
           ]
@@ -22,6 +23,7 @@
             "scripts/vmware.sh",
             "scripts/zfs.sh",
             "scripts/libvirt.sh",
+            "scripts/go.sh",
             "scripts/cleanup.sh",
             "scripts/zerodisk.sh"
           ]
